@@ -1,6 +1,6 @@
 {
         "dbhost" : "database-1.cznvys4gmj5x.us-east-1.rds.amazonaws.com",
         "dbname" : "db2",
-        "dbuser" :"admin2",
-        "dbpassword" :"admin1234"
+        "dbuser" :"",
+        "dbpassword" :""
     }
